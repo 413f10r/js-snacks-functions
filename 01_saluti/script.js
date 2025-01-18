@@ -5,7 +5,7 @@ const userName = 'Mario';
 
 // Dichiara la funzione qui.
 function ciao(nomeUtente) {
-    return `ciao ${nomeUtente} `
+    return `Ciao ${nomeUtente} `
 }
 
 // Invoca la funzione qui e stampa il risultato in console
